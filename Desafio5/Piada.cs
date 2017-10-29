@@ -1,4 +1,10 @@
-﻿using System;
+﻿/****************************** Desafio 6 ******************************
+ Desafio 5 : API Piadas
+ Autor    : Álex Prado
+ Data     : 29 de outubro de 2017
+ Versão   : 1.0
+**********************************************************************/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

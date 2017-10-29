@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Desafio5/v15
+/Desafio5/bin/Debug
+/Desafio5/obj/Debug
